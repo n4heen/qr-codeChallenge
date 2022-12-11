@@ -15,12 +15,12 @@
     padding: 10px;
     display: flex;
     flex-direction: column;
+    padding: 32px;
 
 }
 
 .qr__img {
     border-radius: 16px;
-
 }
 
 .qr__text {
@@ -28,6 +28,6 @@
 
 }
 
-.qr__para{
+.qr__para {
     color: gray;
 }

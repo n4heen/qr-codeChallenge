@@ -8,15 +8,26 @@
 }
 
 .container {
-    background-color: red;
-    margin: 20px 8px 20px 8px;
+    border: solid lightgray;
+    margin: auto;
+    width: 50%;
+    border-radius: 16px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+
 }
 
 .qr__img {
     border-radius: 16px;
+
 }
 
 .qr__text {
-    align-items: center;
+    text-align: center;
 
+}
+
+.qr__para{
+    color: gray;
 }
